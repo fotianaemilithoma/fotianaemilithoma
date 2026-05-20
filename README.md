@@ -2,11 +2,12 @@
 
 Full-stack developer based in Cyprus. I build web and mobile applications across the full lifecycle. Frontend, backend, and the all the bits in between.
 
-- 🔭 Currently building **[Palette Selector](https://github.com/fotianaemilithoma/<public-showcase-repo>)**.A Django app for generating color palettes from images, live websites (via headless Chromium), and 26 named color moods, with a built-in accessibility contrast checker.
+- 🔭 Currently building **[Palette Selector](https://github.com/fotianaemilithoma/palette_selector-public)**. A Django app for generating color palettes from images, live websites (via headless Chromium), and 26 named color moods, with a built-in accessibility contrast checker.
 - 💼 **Open to full-stack and mobile roles.** Previously a Full Stack Developer at Infinite Fusion Tech Ltd (2022–2026), shipping React, Django, and Ionic apps and websites for customer-facing products.
 - 🎓 BSc in Electrical & Computer Engineering, University of Cyprus. Specialised in intelligent systems, control, and robotics. Thesis on crowdsourced indoor localisation using Bluetooth signals and machine learning.
 - 🌍 Greek (native), English (IELTS 6.5), some French (DELF A1/A2).
-- 📫 Reach me at **fotianaemilythoma@outlook.com**.
+- 📫 Reach me at **fotianaemilithoma.business@gmail.com**.
+- 📄 Learn about my professional background **[here](http://github.com/fotianaemilithoma/fotianaemilithoma/blob/main/Fotiana_Emili_Thoma_CV.pdf)**.
 
 ### Connect
 
