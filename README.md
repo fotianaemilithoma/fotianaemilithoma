@@ -8,7 +8,7 @@ Full-stack developer based in Cyprus. I build web and mobile applications across
 - 🌍 Greek (native), English (IELTS 6.5), some French (DELF A1/A2).
 - 📫 Reach me at **fotianaemilithoma.business@gmail.com**.
 - 📄 Learn about my professional background **[here](http://github.com/fotianaemilithoma/fotianaemilithoma/blob/main/Fotiana_Emili_Thoma_CV.pdf)**.
-- ⚡ Fun fact about me: In my spare time, i like to draw. Here is some of my work: **[Cara](https://cara.app/feta/portfolio)**.
+- ⚡ Fun fact about me: In my spare time, i like to draw. Here is some of my work: **[Cara](https://cara.app/feta/portfolio)**/**[Instagram](https://www.instagram.com/fetartsncrafts/)**.
 
 ### Connect
 
