@@ -2,7 +2,7 @@
 
 Full-stack developer based in Cyprus. I build web and mobile applications across the full lifecycle. Frontend, backend, and the all the bits in between.
 
-- 🔭 Currently building **[Palette Selector](https://github.com/fotianaemilithoma/palette_selector-public)**. A Django app for generating color palettes from images, live websites (via headless Chromium), and 26 named color moods, with a built-in accessibility contrast checker.
+- 🔭 Currently building **[TimeSaver](https://github.com/fotianaemilithoma/appblocker-public)**. A strict Android app & website blocker built in React Native (Expo) with a custom native Kotlin module. Conditional schedules (time, usage, location, Wi-Fi), strict-mode commitments you can't impulse past, and goal tracking, backed by a Django REST API.
 - 💼 **Open to full-stack and mobile roles.** Previously a Full Stack Developer at Infinite Fusion Tech Ltd (2022–2026), shipping React, Django, and Ionic apps and websites for customer-facing products.
 - 🎓 BSc in Electrical & Computer Engineering, University of Cyprus. Specialised in intelligent systems, control, and robotics. Thesis on crowdsourced indoor localisation using Bluetooth signals and machine learning.
 - 🌍 Greek (native), English (IELTS 6.5), some French (DELF A1/A2).
